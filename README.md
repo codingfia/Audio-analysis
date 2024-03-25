@@ -1,7 +1,9 @@
 # Audio-analysis
 
 This a project focused on Speech Emotion Recognition using LSTM and CNN. We aim to recognize human emotion and affective states from speech. 
+
 Datasets used in this project：
+
 Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
 Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess)
 Surrey Audio-Visual Expressed Emotion (Savee)
